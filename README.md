@@ -29,6 +29,5 @@ you can also use shift + mouse wheel to change window size
 * P = on/off slide
 * TAB = prev image
 * Space = next image
-
-double right click = quit
+* double right click = quit
 
