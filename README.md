@@ -2,6 +2,7 @@
 A small image viewer
 
 default image folder: ./imgres
+
 you can also drag an image file to the window
 
 * author: SeaDrip::Poplar
