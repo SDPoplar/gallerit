@@ -20,12 +20,15 @@ you can also drag an image file to the window
 * 4 = big
 * 5 = very big
 * 6 or s = full screen
+
 you can also use shift + mouse wheel to change window size
+
 
 * T = on/off topmost
 * F = on/off fix the window to image file
 * P = on/off slide
 * TAB = prev image
 * Space = next image
+
 double right click = quit
 
