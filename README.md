@@ -8,7 +8,7 @@ you can also drag an image file to the window
 * author: SeaDrip::Poplar
 * SeaDrip Studio: http://www.seadrip.com
 
-![seadrip logo](http://www.seadrip.com/Public/images/sd_logo.png "SeaDrip Studio")
+![seadrip logo](http://www.seadrip.com/Public/img/logo/sd_logo.png "SeaDrip Studio")
 
 ## supported file types
 .bmp .jpg .png
